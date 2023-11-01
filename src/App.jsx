@@ -18,7 +18,7 @@ function App() {
     <main>
       <div className="relative flex flex-col h-[100vh] items-center justify-center bg-white dark:bg-black transition-bg">
         <div className="absolute inset-0 overflow-hidden">
-          <div className="jumbo absolute -inset-[10px] opacity-50"></div>
+          <div className="jumbo absolute -inset-[10px] opacity-60"></div>
         </div>
         <h1 className="flex items-center text-5xl font-bold transition-colors dark:text-white dark:opacity-95">
           polar
